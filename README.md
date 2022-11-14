@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently exploring Mobile Development.
 - 💞️ I’m looking to collaborate on React projects.
-- 💻 I'm proficient with React, HTML, CSS, JavaScript, MySQL, MongoDB and Python.
+- 💻 I'm proficient with React, HTML, CSS, JavaScript, Python, MySQL and MongoDB.
 
 <!---
 abhiThere/abhiThere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
