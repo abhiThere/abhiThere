@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhiThere
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently exploring Mobile Development.
-- 💞️ I've developed projects in React and other web technologies.
+- 🌐 I’m interested in Web Development.
+- 📱 I’m currently exploring Mobile Development.
+- 🧑‍💻 I've developed projects in React and other web technologies.
 - 💻 I'm proficient in React, HTML, CSS, JavaScript, Python, MySQL and MongoDB.
 
 <!---
