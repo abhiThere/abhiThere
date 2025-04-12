@@ -1,8 +1,8 @@
 - 👋🏻 Hi, I’m @abhiThere
-- 🌐 I’m interested in Frontend Development.
-- 👨🏻‍💻 I’m currently working as a Software Developer.
-- 🆚 I've developed projects in React.js and other web technologies.
-- 💻 I'm proficient in HTML, CSS, JavaScript, TypeScript, React.js and Redux.
+- 🌐 I’m interested in Front-End Development.
+- 👨🏻‍💻 I’m currently working as a Software Development Engineer.
+- 🆚 I've developed projects in React and other web technologies.
+- 💻 I'm proficient in React, Redux, React Hooks, React Router, HTML5, CSS3 and JavaScript.
 
 <!---
 abhiThere/abhiThere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
