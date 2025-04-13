@@ -1,7 +1,7 @@
 - 👋🏻 Hi, I’m @abhiThere
 - 🌐 I’m interested in Front-End Development.
 - 👨🏻‍💻 I’m currently working as a Software Development Engineer.
-- 🆚 I've developed web applications in React and other web technologies.
+- 🆚 I've developed web applications using React and other web technologies.
 - 💻 I'm proficient in React, Redux, React Hooks, React Router, HTML5, CSS3 and JavaScript.
 
 <!---
