@@ -2,7 +2,7 @@
 - 🌐 I'm focused on Full-Stack Software Development with AI.
 - 👨🏻‍💻 I'm currently pursuing a Master's in Computer Science at Paderborn University, specializing in Software Engineering.
 - 🆚 I've professional experience building AI-powered web applications using modern frontend and backend technologies.
-- 💻 My tech stack includes React, TypeScript, Next.js, Python, FastAPI, Node.js/Express, PostgreSQL, MongoDB and Docker. I've also leveraged AI-assisted development tools such as Cursor and Claude Code in my projects.
+- 💻 My tech stack includes React, TypeScript, Next.js, Python, FastAPI, Node.js/Express, PostgreSQL, MongoDB and Docker. Furthermore, I've leveraged AI-assisted development tools such as Cursor and Claude Code in my projects.
 
 <!---
 abhiThere/abhiThere is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
